@@ -15,7 +15,7 @@ As data scientist to advise the realtors of Skywalker Property Advisors in the y
 ## Data Dictionary
 Data Dictionary for all datasets are being stored in this link below:
 
-[Data Dictionary](#http://localhost:8888/notebooks/OneDrive/Desktop/DSI23%20-%20Project%202/Codes/Appendix%202%20-%20Data%20Dictionary.ipynb)
+[Data Dictionary](http://localhost:8888/notebooks/OneDrive/Desktop/DSI23%20-%20Project%202/Codes/Appendix%202%20-%20Data%20Dictionary.ipynb)
 
 
 ## Brief Summary of Analysis
